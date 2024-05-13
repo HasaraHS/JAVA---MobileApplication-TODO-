@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#AC86DD</color>
+    <color name="colorPrimaryDark">#4d2c91</color>
+    <color name="colorAccent">#b085f5</color>
+    <color name="red">#E94252</color>
+
+    <color name="highPriorityColor">#FF5733</color>
+    <color name="mediumPriorityColor">#FFC300</color>
+    <color name="lowPriorityColor">#33FF57</color>
+    <color name="defaultPriorityColor">#FFFFFF</color>
+
+</resources>
